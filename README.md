@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of dalez/flarum-msemoji.** Not for installation: use [Packagist](https://packagist.org/packages/dalez/flarum-msemoji) or the [upstream repository](https://github.com/DellZHackintosh/flarum-msemoji).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/dalez-flarum-msemoji/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.4`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/dalez-flarum-msemoji/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-07-24 | `^1.4` | [Browse](https://github.com/flarchive/dalez-flarum-msemoji/tree/archive/v1.0.0) |
+| `v1.0.1` | 2025-07-28 | `^1.4` | [Browse](https://github.com/flarchive/dalez-flarum-msemoji/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-07-29 | `^1.4` | [Browse](https://github.com/flarchive/dalez-flarum-msemoji/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/dalez-flarum-msemoji.json](https://github.com/flarchive/archive-index/blob/main/packages/dalez-flarum-msemoji.json)
 
